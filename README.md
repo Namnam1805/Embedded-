@@ -1,2 +1,2 @@
-# laptrnhung-FPT
+# laptrinhung-FPT
 Buổi 1: Lập trình blink led
